@@ -19,8 +19,8 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Tomcat 8_64" level="application_server_libraries" />
     <orderEntry type="library" name="jstl" level="project" />
     <orderEntry type="library" name="standard" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="TomEE 8.5.6" level="application_server_libraries" />
   </component>
 </module>
